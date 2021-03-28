@@ -1,9 +1,9 @@
 import React, { Fragment } from "react";
 
-const HomePage = () => (
+const NotFoundPage = () => (
   <Fragment>
     <h1>Home Me!</h1>
   </Fragment>
 );
 
-export default HomePage;
+export default NotFoundPage;
