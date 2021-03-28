@@ -2,7 +2,7 @@ import React, { Fragment } from "react";
 
 const AboutPage = () => (
   <Fragment>
-    <h1>About</h1>
+    <h1>About Me!</h1>
   </Fragment>
 );
 
